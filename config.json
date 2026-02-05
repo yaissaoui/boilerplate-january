@@ -1,0 +1,32 @@
+{
+  "public": {
+    "default": {
+      "commerce-core-endpoint": "http://magento248.local/graphql",
+      "commerce-endpoint": "http://magento248.local/graphql",
+      "headers": {
+        "cs": {
+          "Magento-Store-Code": "default",
+          "Magento-Store-View-Code": "default",
+          "Magento-Website-Code": "base",
+          "Magento-Environment-Id": "f342b045-5bd0-4175-82c1-c8ce60948d22",
+          "X-Api-Key": "search_gql"
+        }
+      },
+      "commerce-assets-enabled": false,
+      "analytics": {
+        "base-currency-code": "EUR",
+        "environment": "Testing",
+        "environment-id": "QD1T4hbz1zGxLHYpp8cyPy",
+        "locale": "en-US",
+        "store-url": "https://main--aemstorefront--yaissaoui.aem.live",
+        "store-view-currency-code": "EUR",
+        "view-id": "ac811597-5f5e-4287-bc16-5731bca7d164"
+      },
+      "plugins": {
+        "picker": {
+          "rootCategory": "default"
+        }
+      }
+    }
+  }
+}
